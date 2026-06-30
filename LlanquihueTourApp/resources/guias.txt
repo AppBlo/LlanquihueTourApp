@@ -1,0 +1,4 @@
+Camila Reyes;12345678-9;+56912345678;Gastronomía
+Andrés Muñoz;98765432-1;+56987654321;Cultura
+Valentina Lagos;11223344-5;+56911223344;Gastronomía
+Felipe Soto;55667788-3;+56955667788;Lacustre
