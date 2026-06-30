@@ -1,5 +1,0 @@
-Express;1 hora;10990
-Basico;3 horas;14990
-Medio;6 horas;19990
-Premium;12 horas;29990
-Deluxe;24 horas;59990
